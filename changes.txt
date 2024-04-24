@@ -1,1 +1,2 @@
-Změněno v GitHub main větvi.
+Tento text jsme vložili v lokální větvi main.
+main
