@@ -5,7 +5,7 @@ elements.forEach((element) => {
   console.log(element);
 });
 
-// * vyklení elements s pomocí forEach a zároveň dostupným indexem (pořadí cyklu) a vypsání do konzole
+// * cyklení elements s pomocí forEach a zároveň dostupným indexem (pořadí cyklu) a vypsání do konzole
 elements.forEach((element, index) => {
   console.log(
     `Cyklíme elements, nyní běží ${
